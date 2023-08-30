@@ -12,7 +12,7 @@ In this project we have created a human resources dashboard project in MS Excel 
 In this project we have analyzed human resources data and created a dashboard including some sections such as gender distribution, education status, age range and seniority level of the staff. 
 
 ## Technologies Used
-- MS Excel Version 2306
+- MS Excel
 
 ## Setup
 Before starting the project you need to download the "hr_raw_data.xlsx" data. This data set contains information about a randomly generated company's departments including staff info, sex, department, date of birth, age, education level, working style and starting date of work. 
