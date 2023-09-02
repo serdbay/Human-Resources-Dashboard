@@ -9,7 +9,7 @@ In this project we have created a human resources dashboard project in MS Excel 
 * [Contact](#contact)
 
 ## General Information
-In this project we have analyzed human resources data and created a dashboard including some sections such as gender distribution, education status, age range and seniority level of the staff. 
+In this project we have analyzed human resources data and created a dashboard with 3 themes including some sections also such as gender distribution, education status, age range and seniority level of the staff. 
 
 ## Technologies Used
 - MS Excel
